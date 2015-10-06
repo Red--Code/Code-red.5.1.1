@@ -22,8 +22,12 @@
 *.lst
 *.symtypes
 *.order
+dt.img
+dtbTool
 modules.builtin
 *.elf
+generate_dt.sh
+.gitignore
 *.bin
 *.gz
 *.bz2
